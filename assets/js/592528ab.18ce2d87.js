@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[793],{3251:o=>{o.exports=JSON.parse('{"allTagsPath":"/IncidentHub-Cloud.github.io/blog/tags","slug":"/IncidentHub-Cloud.github.io/blog/tags/facebook","name":"facebook","count":1,"permalink":"/IncidentHub-Cloud.github.io/blog/tags/facebook"}')}}]);
