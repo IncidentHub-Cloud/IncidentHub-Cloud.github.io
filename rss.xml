@@ -46,7 +46,7 @@ A few examples (true stories) will illustrate this</p>
 <li>Choose a channel to receive alerts</li>
 </ul>
 <p>This is why we built <a href="https://incidenthub.cloud/" target="_blank" rel="noopener noreferrer">IncidentHub</a> - based on years of real-world experience. The UI is very simple so that receiving your first alert does not involve more than 2 steps. Check out the demo video below, and try it out yourself at <a href="https://incidenthub.cloud/" target="_blank" rel="noopener noreferrer">https://incidenthub.cloud/</a></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3w-g7fYFtIg-id" frameborder="0" gesture="media" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3w-g7fYFtIg" frameborder="0" gesture="media" allow="autoplay; encrypted-media"></iframe>
 <p>Originally published at <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196385217270415361/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/feed/update/urn:li:activity:7196385217270415361/</a></p>]]></content:encoded>
             <category>monitoring</category>
         </item>
