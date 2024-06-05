@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[507],{8637:n=>{n.exports=JSON.parse('{"tags":[{"label":"monitoring","permalink":"/tags/monitoring","count":2},{"label":"incident-management","permalink":"/tags/incident-management","count":1}]}')}}]);
