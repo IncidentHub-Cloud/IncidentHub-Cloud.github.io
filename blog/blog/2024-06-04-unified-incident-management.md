@@ -1,5 +1,5 @@
 ---
-slug: The Benefits of a Single Incident Management System
+slug: The-Benefits-of-a-Single-Incident-Management-System
 title: The Benefits of a Single Incident Management System
 authors: [hrish]
 tags: [monitoring, incident-management]

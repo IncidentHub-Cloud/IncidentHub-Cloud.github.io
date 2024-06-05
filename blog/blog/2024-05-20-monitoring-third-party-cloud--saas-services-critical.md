@@ -1,5 +1,5 @@
 ---
-slug: Monitoring Your Third-Party Cloud and SaaS Services is Critical
+slug: Monitoring-Your-Third-Party-Cloud-SaaS-Services-is-Critical
 title: Monitoring Your Third-Party Cloud and SaaS Services is Critical
 authors: [hrish]
 tags: [monitoring]
