@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[The Benefits of a Single Incident Management System]]></title>
-            <link>https://incidenthub-cloud.github.io/The Benefits of a Single Incident Management System</link>
-            <guid>https://incidenthub-cloud.github.io/The Benefits of a Single Incident Management System</guid>
+            <link>https://incidenthub-cloud.github.io/The-Benefits-of-a-Single-Incident-Management-System</link>
+            <guid>https://incidenthub-cloud.github.io/The-Benefits-of-a-Single-Incident-Management-System</guid>
             <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[How many monitoring tools do you have?]]></description>
             <content:encoded><![CDATA[<p>How many monitoring tools do you have?</p>
@@ -25,7 +25,7 @@ You can send your application and business metrics to Prometheus too with
 <p>This model does not work for all aspects of your service. E.g. If you want to monitor external properties like your website, or use synthetic
 monitoring to check your customer-facing APIs from global locations, you could use something like Pingdom or UptimeRobot. This becomes another source of
 data about your service's uptime.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="many-monitors-one-incident-management-system">Many Monitors, One Incident Management System<a href="https://incidenthub-cloud.github.io/The%20Benefits%20of%20a%20Single%20Incident%20Management%20System#many-monitors-one-incident-management-system" class="hash-link" aria-label="Direct link to Many Monitors, One Incident Management System" title="Direct link to Many Monitors, One Incident Management System">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="many-monitors-one-incident-management-system">Many Monitors, One Incident Management System<a href="https://incidenthub-cloud.github.io/The-Benefits-of-a-Single-Incident-Management-System#many-monitors-one-incident-management-system" class="hash-link" aria-label="Direct link to Many Monitors, One Incident Management System" title="Direct link to Many Monitors, One Incident Management System">​</a></h3>
 <p>A downside of having more than one monitoring system in place, regardless of the need, is that you have multiple sources of data. You have to
 consult multiple systems if you want to know the overall status. However, it is important that you receive alerts in one single incident and
 on-call management system. This allows a single place from where your on-call teams can get paged.</p>
@@ -43,8 +43,8 @@ It can easily integrate into your existing incident management system.</p>
         </item>
         <item>
             <title><![CDATA[Monitoring Your Third-Party Cloud and SaaS Services is Critical]]></title>
-            <link>https://incidenthub-cloud.github.io/Monitoring Your Third-Party Cloud and SaaS Services is Critical</link>
-            <guid>https://incidenthub-cloud.github.io/Monitoring Your Third-Party Cloud and SaaS Services is Critical</guid>
+            <link>https://incidenthub-cloud.github.io/Monitoring-Your-Third-Party-Cloud-SaaS-Services-is-Critical</link>
+            <guid>https://incidenthub-cloud.github.io/Monitoring-Your-Third-Party-Cloud-SaaS-Services-is-Critical</guid>
             <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[If you have a software-based business, you are using at least a few cloud based tools. It does not matter if you are a solo developer, or part of a 50-member team in a large organization. Take this random list and chances are you are using at least half of them:]]></description>
             <content:encoded><![CDATA[<p>If you have a software-based business, you are using at least a few cloud based tools. It does not matter if you are a solo developer, or part of a 50-member team in a large organization. Take this random list and chances are you are using at least half of them:</p>
