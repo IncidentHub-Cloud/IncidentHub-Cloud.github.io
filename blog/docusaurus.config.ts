@@ -61,7 +61,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'External Links',
+//          title: 'External Links',
           items: [
             {
               label: 'IncidentHub',
@@ -81,6 +81,18 @@ const config: Config = {
             },
           ],
         },
+        {
+            items: [
+                {
+                    label: 'ProductHunt',
+                    href: 'https://www.producthunt.com/products/incidenthub',
+                },
+                {
+                    label: 'SaaSHub',
+                    href: 'https://www.saashub.com/incidenthub',
+                },
+            ]
+        }
       ],
       copyright: `Copyright © ${new Date().getFullYear()} IncidentHub`,
     },
