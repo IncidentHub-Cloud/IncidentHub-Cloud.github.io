@@ -2,6 +2,7 @@
 slug: The-Benefits-of-a-Single-Incident-Management-System
 title: The Benefits of a Single Incident Management System
 authors: [hrish]
+description: It is important to have a single incident management system irrespective of how many monitoring systems you have.
 tags: [monitoring, incident-management]
 ---
 

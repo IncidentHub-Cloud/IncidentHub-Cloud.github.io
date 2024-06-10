@@ -2,6 +2,7 @@
 slug: Monitoring-Your-Third-Party-Cloud-SaaS-Services-is-Critical
 title: Monitoring Your Third-Party Cloud and SaaS Services is Critical
 authors: [hrish]
+description: It is critical to your business operations to monitor your third-party cloud and SaaS services. It's also important to get notified so that such incidents don't impact your developments and business operations.
 tags: [monitoring]
 ---
 
