@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://incidenthub-cloud.github.io/',
+  url: 'https://blog.incidenthub.cloud/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -66,7 +66,7 @@ const config: Config = {
       title: 'IncidentHub Blog',
       logo: {
         alt: 'IncidentHub',
-        src: 'https://storage.googleapis.com/ihub-static-storage/2-color-IncidentHub%20Logo.jpg',
+        src: 'https://storage.googleapis.com/ihub-static-storage/logo-bg-white.png',
       },
     },
     footer: {
