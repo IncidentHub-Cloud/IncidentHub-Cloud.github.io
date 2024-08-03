@@ -64,7 +64,7 @@ const config: Config = {
     image: 'img/social-card.png',
     navbar: {
       title: 'IncidentHub Blog',
-      logo: {
+      logo   : {
         alt: 'IncidentHub',
         src: 'https://storage.googleapis.com/ihub-static-storage/logo-bg-white.png',
       },
