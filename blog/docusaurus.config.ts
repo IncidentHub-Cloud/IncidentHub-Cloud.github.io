@@ -104,6 +104,14 @@ const config: Config = {
                     href: 'https://www.saashub.com/incidenthub',
                 },
             ]
+        },
+        {
+            items: [
+                {
+                    label: 'RSS Feed',
+                    href: 'https://blog.incidenthub.cloud/rss.xml',
+                }
+            ]
         }
       ],
       copyright: `Copyright © ${new Date().getFullYear()} IncidentHub`,
