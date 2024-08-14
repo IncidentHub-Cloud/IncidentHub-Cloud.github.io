@@ -63,9 +63,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/social-card.png',
     navbar: {
-      title: 'IncidentHub Blog',
+      title: 'IncidentHub',
       logo   : {
         alt: 'IncidentHub',
+        href: 'https://incidenthub.cloud',
         src: 'https://storage.googleapis.com/ihub-static-storage/logo-bg-white.png',
       },
     },
@@ -108,8 +109,8 @@ const config: Config = {
         {
             items: [
                 {
-                    label: 'RSS Feed',
-                    href: 'https://blog.incidenthub.cloud/rss.xml',
+                    label: 'Blog Feed',
+                    href: 'https://blog.incidenthub.cloud/atom.xml',
                 }
             ]
         }
