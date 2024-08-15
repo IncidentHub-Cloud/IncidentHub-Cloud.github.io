@@ -2,7 +2,7 @@
 slug: Monitoring-Specific-Components-and-Regions-in-Your-Third-Party-Services
 title: Monitoring Specific Components and Regions in Your Third-Party Services
 authors: [ hrish ]
-description: Integrate your incident generation tool with PagerDuty with its Events API V2
+description: How to monitor specific components and regions in your services
 tags: [ monitoring, components, alerting, ops ]
 ---
 
