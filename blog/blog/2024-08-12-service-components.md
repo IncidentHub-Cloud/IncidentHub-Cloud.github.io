@@ -22,7 +22,7 @@ example.
 
 You can choose to monitor all components:
 
-<img src="img/edit-do.png" style={{border: '1px solid #000'}} alt="Monitor all components"/>
+<img src="/img/edit-do.png" style={{border: '1px solid #000'}} alt="Monitor all components"/>
 
 or a subset that is relevant to you:
 

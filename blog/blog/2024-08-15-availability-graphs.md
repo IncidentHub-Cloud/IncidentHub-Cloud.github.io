@@ -14,7 +14,7 @@ On the dashboard where you can add services and channels, there is an overview p
 last 24 hours. You can get into a more detailed view by clicking on the button next to it. This opens up a popup where
 you can see active and resolved incidents - in the last 24 hours - and filter them by service.
 
-<img src="img/view-incident-popup.png" style={{border: '1px solid #000'}} alt="View Incidents Popup"/>
+<img src="/img/view-incident-popup.png" style={{border: '1px solid #000'}} alt="View Incidents Popup"/>
 
 This panel is good enough for a quick view on what's affecting your dependent services. However, sometimes there is a 
 need to look back further. This is what the Availability page gives you - an overview of service health over the last 30 days.
@@ -31,7 +31,7 @@ cloud provider's health at that time.
 check your own historical metrics, and if there was an incident, correlate that with your third-party services' uptime.
 
 The Availability page looks like this:
-<img src="img/availability-page.png" style={{border: '1px solid #000'}} alt="Availability Page"/>
+<img src="/img/availability-page.png" style={{border: '1px solid #000'}} alt="Availability Page"/>
 
 ### Digging Deeper
 The green bars show days when everything was fine as reported by the service's own status page. 
@@ -43,12 +43,12 @@ If you hover over the red bars, you would see one of two things:
 When there was a single incident on that day, it will be a link whose text says "View Incident Details". 
 Clicking on it will take you to the official incident page of the service. 
 
-<img src="img/av-single-incident.png" style={{border: '1px solid #000'}} alt="Single Incident Day"/>
+<img src="/img/av-single-incident.png" style={{border: '1px solid #000'}} alt="Single Incident Day"/>
 
 #### Multiple Incident Days
 When the service had multiple incidents on that day, the link text will say 
 "Multiple incidents - click to visit the status page". This will take you to the official status page of the service. 
-<img src="img/av-multiple-incidents.png" style={{border: '1px solid #000'}} alt="Multiple Incidents Day"/>
+<img src="/img/av-multiple-incidents.png" style={{border: '1px solid #000'}} alt="Multiple Incidents Day"/>
 
 <br/>
 <br/>
