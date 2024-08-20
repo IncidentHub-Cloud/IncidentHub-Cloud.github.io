@@ -45,12 +45,20 @@ const config: Config = {
             const items = await defaultCreateSitemapItems(rest);
             return items.filter((item) => !item.url.includes('/page/'));
           },
-        },        
+        },
+        docs: false,
         blog: {
           showReadingTime: true,
           routeBasePath: '/',
+          blogTitle: 'IncidentHub Blog',
+          blogDescription: 'IncidentHub monitors the status of your third-party Cloud and SaaS services',
+          blogSidebarCount: 5,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          feedOptions: {
+            type: 'all',
+            title: 'IncidentHub Blog',
+          }
         },
         theme: {
           customCss: './src/css/custom.css',
