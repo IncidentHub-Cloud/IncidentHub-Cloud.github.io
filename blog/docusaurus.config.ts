@@ -79,6 +79,13 @@ const config: Config = {
         href: 'https://incidenthub.cloud',
         src: 'https://storage.googleapis.com/ihub-static-storage/logo-bg-white.png',
       },
+      items: [
+        {
+          label: "The IncidentHub Blog",
+          position: 'right',
+          href: '/',
+        }
+      ],
     },
     footer: {
       style: 'dark',
