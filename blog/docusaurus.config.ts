@@ -52,7 +52,7 @@ const config: Config = {
           routeBasePath: '/',
           blogTitle: 'IncidentHub Blog',
           blogDescription: 'IncidentHub monitors the status of your third-party Cloud and SaaS services',
-          blogSidebarCount: 5,
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           feedOptions: {
