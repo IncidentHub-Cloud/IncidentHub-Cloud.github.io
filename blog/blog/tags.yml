@@ -1,0 +1,45 @@
+alerting:
+  label: 'alerting'
+  permalink: '/alerting'
+  description: 'IncidentHub posts related to alerting'
+
+availability:
+  label: 'availability'
+  permalink: '/availability'
+  description: 'IncidentHub posts related to availability'
+
+components:
+  label: 'components'
+  permalink: '/components'
+  description: 'IncidentHub posts related to service components'
+
+incident-management:
+  label: 'incident-management'
+  permalink: '/incident-management'
+  description: 'IncidentHub posts related to incident management'
+
+monitoring:
+  label: 'monitoring'
+  permalink: '/monitoring'
+  description: 'IncidentHub posts related to monitoring'
+
+on-call:
+  label: 'on-call'
+  permalink: '/on-call'
+  description: 'IncidentHub posts related to on-call'
+
+ops:
+  label: 'ops'
+  permalink: '/ops'
+  description: 'IncidentHub posts related to ops'
+
+pagerduty:
+  label: 'pagerduty'
+  permalink: '/pagerduty'
+  description: 'IncidentHub posts related to pagerduty'
+
+sre:
+  label: 'sre'
+  permalink: '/sre'
+  description: 'IncidentHub posts related to sre'
+

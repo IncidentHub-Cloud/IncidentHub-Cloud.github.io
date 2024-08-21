@@ -58,7 +58,9 @@ const config: Config = {
           feedOptions: {
             type: 'all',
             title: 'IncidentHub Blog',
-          }
+          },
+          tags: 'tags.yml',
+          onInlineTags: 'throw',
         },
         theme: {
           customCss: './src/css/custom.css',
