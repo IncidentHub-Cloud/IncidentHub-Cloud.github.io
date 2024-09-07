@@ -34,6 +34,10 @@ const config: Config = {
     [
       'classic',
       {
+        gtag: {
+          trackingID: "G-QTW0L49C26",
+          anonymizeIP: true,
+        },
         sitemap: {
           lastmod: 'date',
           changefreq: 'weekly',
