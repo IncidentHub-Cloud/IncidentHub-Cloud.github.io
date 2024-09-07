@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
@@ -30,6 +30,17 @@ const config: Config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      "posthog-docusaurus",
+      {
+        apiKey: "phc_qLkH5C1EGaWnp5L9L5YDkjXEEfmTI00KSHTlNzjA8Vl",
+        appUrl: "https://us.i.posthog.com",
+        enableInDevelopment: false,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -45,7 +56,7 @@ const config: Config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
           createSitemapItems: async (params) => {
-            const {defaultCreateSitemapItems, ...rest} = params;
+            const { defaultCreateSitemapItems, ...rest } = params;
             const items = await defaultCreateSitemapItems(rest);
             return items.filter((item) => !item.url.includes('/page/'));
           },
@@ -78,7 +89,7 @@ const config: Config = {
     image: 'img/social-card.png',
     navbar: {
       title: 'IncidentHub',
-      logo   : {
+      logo: {
         alt: 'IncidentHub',
         href: 'https://incidenthub.cloud',
         src: 'https://storage.googleapis.com/ihub-static-storage/logo-bg-white.png',
@@ -95,7 +106,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-//          title: 'External Links',
+          //          title: 'External Links',
           items: [
             {
               label: 'IncidentHub',
@@ -116,24 +127,24 @@ const config: Config = {
           ],
         },
         {
-            items: [
-                {
-                    label: 'ProductHunt',
-                    href: 'https://www.producthunt.com/products/incidenthub',
-                },
-                {
-                    label: 'SaaSHub',
-                    href: 'https://www.saashub.com/incidenthub',
-                },
-            ]
+          items: [
+            {
+              label: 'ProductHunt',
+              href: 'https://www.producthunt.com/products/incidenthub',
+            },
+            {
+              label: 'SaaSHub',
+              href: 'https://www.saashub.com/incidenthub',
+            },
+          ]
         },
         {
-            items: [
-                {
-                    label: 'Blog Feed',
-                    href: 'https://blog.incidenthub.cloud/atom.xml',
-                }
-            ]
+          items: [
+            {
+              label: 'Blog Feed',
+              href: 'https://blog.incidenthub.cloud/atom.xml',
+            }
+          ]
         }
       ],
       copyright: `Copyright © ${new Date().getFullYear()} IncidentHub`,
