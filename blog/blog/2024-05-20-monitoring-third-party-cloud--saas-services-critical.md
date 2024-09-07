@@ -10,11 +10,11 @@ If you have a software-based business, you are using at least a few cloud based 
 - Zoom
 - Google Workspace
 - Slack
-- Public cloud/PaaS - GCP/AWS/Azure/Render/Heroku/Railway/DigitalOcean/Hetzner
+- Public cloud/PaaS - [GCP](https://incidenthub.cloud/service/googlecloudplatform)/[AWS]/[Azure](https://incidenthub.cloud/service/azure)/Render/Heroku/[Railway](https://incidenthub.cloud/service/railway)/[DigitalOcean](https://incidenthub.cloud/service/digitalocean)/[Hetzner](https://incidenthub.cloud/service/hetzner)
 - PagerDuty/Opsgenie
 - Cdnjs
 - DockerHub
-- GitLab/GitHub
+- [GitLab](https://incidenthub.cloud/service/gitlab)/[GitHub](https://incidenthub.cloud/service/github)
 - TravisCI/CircleCI/Semaphore
 - Let’s Encrypt
 

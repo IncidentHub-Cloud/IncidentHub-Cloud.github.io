@@ -29,20 +29,20 @@ But if you have tried it, it's not that easy
 You can easily end up doing this one by one for 10-15 or more service providers. Let's do a quick check. 
 Which services in this list below do you use in your stack?
 
-- DNS - GCP/GoDaddy/UltraDNS/Route53
-- Cloud/PaaS - GCP/AWS/Azure/DigitalOcean/Heroku/Render/Railway/Hetzner
-- Monitoring - Grafana Cloud/DataDog/New Relic/SolarWinds
+- DNS - [GCP](https://incidenthub.cloud/service/googlecloudplatform)/GoDaddy/UltraDNS/Route53
+- Cloud/PaaS - [GCP](https://incidenthub.cloud/service/googlecloudplatform)/AWS/[Azure](https://incidenthub.cloud/service/azure)/[DigitalOcean](https://incidenthub.cloud/service/digitalocean)/Heroku/Render/[Railway](https://incidenthub.cloud/service/railway)/[Hetzner](https://incidenthub.cloud/service/hetzner)
+- Monitoring - Grafana Cloud/[DataDog](https://incidenthub.cloud/service/datadog)/[New Relic](https://incidenthub.cloud/service/newrelic)/SolarWinds
 - On-call management - PagerDuty/OpsGenie
 - Email - Google Workspace/Zoho
 - Communication - Zoom/Slack
-- Collaboration - Atlassian Jira/Confluence
-- Source code - GitLab/GitHub
+- Collaboration - [Atlassian Jira](https://incidenthub.cloud/service/jira)/Confluence
+- Source code - [GitLab](https://incidenthub.cloud/service/gitlab)/[GitHub](https://incidenthub.cloud/service/github)
 - CI/CD/GitOps - TravisCI/CircleCI/CodeFresh
-- CDN/Content delivery/ - Cloudflare/CDNJS/Fastly/Akamai
-- SMTP providers - SMTP.com/SendGrid
-- Payments - PayPal/Stripe
+- CDN/Content delivery/ - Cloudflare/CDNJS/Fastly/[Akamai](https://incidenthub.cloud/service/akamai)
+- SMTP providers - SMTP.com/[SendGrid](https://incidenthub.cloud/service/sendgrid)
+- Payments - [PayPal](https://incidenthub.cloud/service/paypal)/[Stripe](https://incidenthub.cloud/service/stripe)
 - Artifact Repo - Maven/DockerHub.Quay.io
-- Others - OpenAI/Apple Dev Platform/Meta Platform
+- Others - [OpenAI](https://incidenthub.cloud/service/openai)/Apple Dev Platform/Meta Platform
 - Marketing - MailChimp/Hubspot
 - Auth - Okta/Clerk/Auth0
 

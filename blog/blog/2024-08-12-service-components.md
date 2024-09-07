@@ -12,7 +12,7 @@ Chances are, most of your third-party cloud and SaaS dependencies are globally d
 Chances are, your applications use a subset of a cloud or SaaS service. If you are monitoring such a service,
 why should you receive alerts for all regions or every single component in the service?
 
-E.g. if you use Digital Ocean, you might be using Kubernetes in their US locations (NYC and SFO). You would want to know
+E.g. if you use [Digital Ocean](https://incidenthub.cloud/service/digitalocean), you might be using Kubernetes in their US locations (NYC and SFO). You would want to know
 only when there is an outage in one of these locations. Digital Ocean's status page gives you the option to subscribe to 
 outages across the board - it’s all or nothing. This is the case with most services with a few exceptions.
 
