@@ -5,6 +5,9 @@ authors: [hrish]
 description: It is critical to your business operations to monitor your third-party cloud and SaaS services. It's also important to get notified so that such incidents don't impact your developments and business operations.
 tags: [monitoring]
 ---
+<head>
+  <link rel="canonical" href="https://www.linkedin.com/feed/update/urn:li:activity:7196385217270415361/" />
+</head>
 
 If you have a software-based business, you are using at least a few cloud based tools. It does not matter if you are a solo developer, or part of a 50-member team in a large organization. Take this random list and chances are you are using at least half of them:
 - Zoom
@@ -13,7 +16,7 @@ If you have a software-based business, you are using at least a few cloud based 
 - Public cloud/PaaS - [GCP](https://incidenthub.cloud/service/googlecloudplatform)/[AWS]/[Azure](https://incidenthub.cloud/service/azure)/Render/Heroku/[Railway](https://incidenthub.cloud/service/railway)/[DigitalOcean](https://incidenthub.cloud/service/digitalocean)/[Hetzner](https://incidenthub.cloud/service/hetzner)
 - PagerDuty/Opsgenie
 - Cdnjs
-- DockerHub
+- [DockerHub](https://incidenthub.cloud/service/docker)
 - [GitLab](https://incidenthub.cloud/service/gitlab)/[GitHub](https://incidenthub.cloud/service/github)
 - TravisCI/CircleCI/Semaphore
 - Let’s Encrypt
@@ -45,4 +48,4 @@ This is why we built [IncidentHub](https://incidenthub.cloud/) - based on years 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3w-g7fYFtIg" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Originally published at [https://www.linkedin.com/feed/update/urn:li:activity:7196385217270415361/](https://www.linkedin.com/feed/update/urn:li:activity:7196385217270415361/)
+Originally published on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7196385217270415361/)
