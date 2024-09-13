@@ -53,7 +53,11 @@ const config: Config = {
           lastmod: 'date',
           changefreq: 'weekly',
           priority: 0.5,
-          ignorePatterns: ['/tags/**'],
+          ignorePatterns: [
+            '/tags/**',
+            '/markdown-page',
+            '/authors',
+          ],
           filename: 'sitemap.xml',
           createSitemapItems: async (params) => {
             const { defaultCreateSitemapItems, ...rest } = params;
@@ -143,6 +147,14 @@ const config: Config = {
             {
               label: 'Blog Feed',
               href: 'https://blog.incidenthub.cloud/atom.xml',
+            }
+          ]
+        },
+        {
+          items: [
+            {
+              label: 'Blog Archive',
+              href: 'https://blog.incidenthub.cloud/archive',
             }
           ]
         }
