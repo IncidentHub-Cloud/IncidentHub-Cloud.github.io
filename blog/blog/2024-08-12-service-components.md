@@ -2,7 +2,7 @@
 slug: Monitoring-Specific-Components-and-Regions-in-Your-Third-Party-Services
 title: Monitoring Specific Components and Regions in Your Third-Party Services
 authors: [ hrish ]
-description: How to monitor specific components and regions in your services
+description: How to monitor specific components and regions in your cloud and SaaS services in IncidentHub. Choose the services and geographical regions that you use.
 tags: [ monitoring, components, alerting, ops ]
 ---
 

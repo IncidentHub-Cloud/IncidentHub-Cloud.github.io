@@ -2,7 +2,7 @@
 slug: Integrate-Your-Monitoring-System-With-PagerDutys-Events-API-V2
 title: Integrate Your Monitoring System With PagerDuty Using Events API V2
 authors: [ hrish ]
-description: Integrate your incident generation tool with PagerDuty with its Events API V2
+description: Integrate your incident generation tool with PagerDuty with its Events API V2. Get a PagerDuty integration key and create and resolve incidents directly from the API.
 tags: [ monitoring, pagerduty, on-call, ops ]
 ---
 
