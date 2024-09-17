@@ -161,6 +161,9 @@ const config: Config = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} IncidentHub`,
     },
+    tableOfContents: {
+      minHeadingLevel: 2
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,

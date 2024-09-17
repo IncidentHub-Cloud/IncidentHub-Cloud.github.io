@@ -36,10 +36,20 @@ ops:
 pagerduty:
   label: 'pagerduty'
   permalink: '/pagerduty'
-  description: 'IncidentHub posts related to pagerduty'
+  description: 'IncidentHub posts related to PagerDuty'
+
+saas:
+  label: 'saas'
+  permalink: '/saas'
+  description: 'IncidentHub posts related to Software-as-a-Service (SaaS)'
 
 sre:
   label: 'sre'
   permalink: '/sre'
   description: 'IncidentHub posts related to sre'
+
+uptime:
+  label: 'uptime'
+  permalink: '/uptime'
+  description: 'IncidentHub posts related to uptime'
 
