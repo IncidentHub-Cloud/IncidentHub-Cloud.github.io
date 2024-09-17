@@ -1,6 +1,6 @@
 ---
 slug: When-Alerts-Don't-Mean-Downtime-Preventing-SRE-Fatigue
-title: When Alerts Don’t Mean Downtime - Preventing SRE Fatigue
+title: When Alerts Don't Mean Downtime - Preventing SRE Fatigue
 authors: [ hrish ]
 description: How to improve your alerts when routine deployments can trigger them leading to false alerts and causing SRE fatigue.
 tags: [ monitoring, alerting, ops ]
