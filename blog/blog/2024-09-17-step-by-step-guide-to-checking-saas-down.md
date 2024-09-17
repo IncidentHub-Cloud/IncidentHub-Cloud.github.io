@@ -10,7 +10,7 @@ tags: [ monitoring, alerting, saas, uptime, incident-management ]
 
 Modern businesses depend heavily on Software as a Service (SaaS). Almost all aspects of business operations - accounting, HR, payroll, marketing, IT, sales, 
 support - depend on one or more SaaS applications. SaaS is not limited to being used by software development teams. Given this dependency on SaaS applications,
- their uptime becomes tightly tied to a business's uptime. Any SaaS downtime can affect both a business's daily operations as well as the user experience.
+ their uptime becomes tightly tied to a business's uptime. Any [SaaS downtime](/Monitoring-Your-Third-Party-Cloud-SaaS-Services-is-Critical) can affect both a business's daily operations as well as the user experience.
 
 How to check if a SaaS is experiencing downtime? Follow the steps below:
 
@@ -47,7 +47,7 @@ Status pages also show you past incidents:
 
 You can find more information about the outage by clicking on the downtime link on the status page. It will have details about which components or services are 
 affected by the outage. If your SaaS has many independent locations, like a cloud provider, look for region/zone information as well. It's possible that the outage
-is limited to some components or locations. Check if any of the components or services you use are in the list. If it's a cloud provider or a similar service,
+is limited to some components or locations. Check if any of the [components or services](/Monitoring-Specific-Components-and-Regions-in-Your-Third-Party-Services) you use are in the list. If it's a cloud provider or a similar service,
 check if the affected locations are among the ones that you use.
 
 E.g. this Google Cloud outage affected Google Compute Engine in the asia-northeast1 region.
