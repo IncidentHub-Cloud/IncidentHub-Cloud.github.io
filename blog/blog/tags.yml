@@ -13,6 +13,11 @@ components:
   permalink: '/components'
   description: 'IncidentHub posts related to service components'
 
+discord:
+  label: 'discord'
+  permalink: '/discord'
+  description: 'IncidentHub posts related to Discord'
+
 incident-management:
   label: 'incident-management'
   permalink: '/incident-management'
@@ -52,4 +57,9 @@ uptime:
   label: 'uptime'
   permalink: '/uptime'
   description: 'IncidentHub posts related to uptime'
+
+webhook:
+  label: 'webhook'
+  permalink: '/webhook'
+  description: 'IncidentHub posts related to webhook'
 
