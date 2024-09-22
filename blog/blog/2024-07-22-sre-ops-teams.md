@@ -3,7 +3,7 @@ slug: Monitoring-Third-Party-Vendors-As-An-Ops-Engineer-SRE
 title: Monitoring Third Party Vendors as an Ops Engineer/SRE
 authors: [hrish]
 description: Stop hacking together scripts to monitor public status pages. Use a status page aggregator that gives you a summary of all your Cloud and SaaS status pages.
-tags: [monitoring, sre, ops]
+tags: [monitoring, sre, ops, cloud, saas]
 ---
 
 Why should you monitor your third-party Cloud and SaaS vendors if you are in SRE/Ops?

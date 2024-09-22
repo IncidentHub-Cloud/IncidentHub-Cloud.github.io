@@ -3,7 +3,7 @@ slug: Monitoring-Your-Third-Party-Cloud-SaaS-Services-is-Critical
 title: Monitoring Your Third-Party Cloud and SaaS Services is Critical
 authors: [hrish]
 description: It is critical to your business operations to monitor your third-party cloud and SaaS services and get notified before they impact your operations.
-tags: [monitoring]
+tags: [monitoring, cloud]
 ---
 If you have a software-based business, you are using at least a few cloud based tools. It does not matter if you are a solo developer, or part of a 50-member team in a large organization. Take this random list and chances are you are using at least half of them:
 - Zoom

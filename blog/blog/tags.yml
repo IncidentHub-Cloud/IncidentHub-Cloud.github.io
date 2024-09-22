@@ -13,6 +13,11 @@ components:
   permalink: '/components'
   description: 'IncidentHub posts related to service components'
 
+cloud:
+  label: 'cloud'
+  permalink: '/cloud'
+  description: 'IncidentHub posts related to cloud'
+
 discord:
   label: 'discord'
   permalink: '/discord'
@@ -52,6 +57,11 @@ sre:
   label: 'sre'
   permalink: '/sre'
   description: 'IncidentHub posts related to sre'
+
+status-pages:
+  label: 'status-pages'
+  permalink: '/status-pages'
+  description: 'IncidentHub posts related to status-pages'
 
 uptime:
   label: 'uptime'

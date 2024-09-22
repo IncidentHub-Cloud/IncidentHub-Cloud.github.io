@@ -3,7 +3,7 @@ slug: A-Step-by-Step-Guide-to-Checking-if-a-SaaS-is-Down
 title: A Step by Step Guide to Checking if a SaaS is Down
 authors: [ hrish ]
 description: How to check if a SaaS service you use and depend on is down or experiencing an outage using different methods.
-tags: [ monitoring, alerting, saas, uptime, incident-management ]
+tags: [ monitoring, alerting, saas, uptime, incident-management, status-pages ]
 ---
 
 ## Introduction
