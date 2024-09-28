@@ -6,6 +6,11 @@ description: Integrate your incident events with Discord using webhooks. Receive
 tags: [alerting, discord, ops, webhook]
 ---
 
+<head>
+<meta property="og:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/discord.jpg" />
+<meta name="twitter:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/discord.jpg" />
+</head>
+
 ## Introduction
 
 Staying on top of your third-party Cloud and SaaS service outages is crucial to maintain the reliability of your own applications.
