@@ -109,7 +109,7 @@ As noted in the previous sections, there are various challenges to monitoring cl
  [IncidentHub](https://incidenthub.cloud) is a SaaS tool created specifically to solve these challenges faced by Dev/Ops/SRE and IT Teams. You can [create a free account](https://incidenthub.cloud/sign-up)
   which comes with 20 status page monitors and try it out.
 
-IncidentHub monitors hundreds of cloud provider status pages periodically. It can send you notifications over the medium you choose - Email, Slack, PagerDuty, Discord, MS Teams, etc. 
+IncidentHub monitors [hundreds](https://incidenthub.cloud/services) of cloud provider status pages periodically. It can send you notifications over the medium you choose - Email, Slack, PagerDuty, Discord, MS Teams, etc. 
 IncidentHub also gives you a single dashboard where you can view ongoing and past incidents with your cloud providers:
 ![Availability page](/img/availability-page.png)
 
