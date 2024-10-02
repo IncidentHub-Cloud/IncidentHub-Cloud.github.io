@@ -18,7 +18,7 @@ effectively monitoring such status pages.
 3. [Understand the Status Page Structure](#understand-the-status-page-structure)
 4. [Configure Notifications](#configure-notifications)
 5. [Best Practices](#best-practices)
-6. [Incident Response Plan](#incident-response-plan)
+6. [Include in Your Incident Response Plan](#incident-response-plan)
 7. [Use a Monitoring Tool](#use-a-monitoring-tool)
 8. [Conclusion](#conclusion)
 9. [FAQ](#faq)
@@ -100,7 +100,7 @@ To check if any of your cloud providers have an outage, a single visual way wher
  provider status pages, a poor substitute will be your notification channel. If it's Slack, you can configure the  notifications to go into a specific Slack channel. However, it can be difficult
   to search for past incidents as well as look at ongoing incidents with Slack. 
 
-## Incident Response Plan
+## Include in Your Incident Response Plan
 Irrespective of your chosen notification mode, ensure that your incident response plan includes cloud provider alerts. Determine the right priority of such alerts so that your team can
  respond effectively. Include cloud provider alerts in your incident response plans so that teams can correlate alerts from other parts of your systems with cloud provider alerts to dig down faster into the root cause.
 
