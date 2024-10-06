@@ -6,6 +6,11 @@ description: Monitoring the public status pages of your cloud providers is a cru
 tags: [status-pages, monitoring, ops, cloud]
 ---
 
+<head>
+<meta property="og:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/statuspagemonitor.jpg" />
+<meta name="twitter:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/statuspagemonitor.jpg" />
+</head>
+
 ## Introduction
 
 Incident updates on the public status pages of your cloud providers are often the first indication that they might have an outage.
