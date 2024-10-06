@@ -98,3 +98,5 @@ Discord webhooks have a secret token embedded in the webhook URL. IncidentHub st
 However, you should ensure that you do not copy or store the webhook URL anywhere in your laptop or mobile phone in the process of configuring the webhook.
 </p>
 </details>
+
+You might also be interested in [Integrate Incident Alerts Into Your Slack Workspace](/Integrate-Incident-Alerts-Into-Your-Slack-Workspace)

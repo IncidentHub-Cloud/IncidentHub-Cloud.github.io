@@ -53,6 +53,11 @@ saas:
   permalink: '/saas'
   description: 'IncidentHub posts related to Software-as-a-Service (SaaS)'
 
+slack:
+  label: 'slack'
+  permalink: '/slack'
+  description: 'IncidentHub posts related to slack'
+
 sre:
   label: 'sre'
   permalink: '/sre'
