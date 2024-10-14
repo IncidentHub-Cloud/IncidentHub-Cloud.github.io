@@ -1,5 +1,5 @@
 ---
-slug: Incident-Archaeology-Dig-Into-Your Services-Past-With-IncidentHubs-Availability-Page
+slug: Incident-Archaeology-Dig-Into-Your-Services-Past-With-IncidentHubs-Availability-Page
 title: Incident Archaeology – Dig Into Your Services' Past With IncidentHub's Availability Page
 authors: [ hrish ]
 description: The Availability page gives you a high-level overview of your cloud and SaaS services' health over the last 30 days.

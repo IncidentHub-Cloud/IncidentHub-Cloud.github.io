@@ -27,7 +27,7 @@ Discord, choose the Discord option. For a custom webhook server, choose the
 
 You must have the correct permissions on your Discord server to be able to do this.
 
-Follow these steps to configure a webhook in your Discord server.
+Follow these steps to configure a [webhook](https://discord.com/developers/docs/resources/webhook) in your Discord server.
 
 - Go to Server Settings
 - Click on "Integrations" under the "APPS" section in the left navigation bar

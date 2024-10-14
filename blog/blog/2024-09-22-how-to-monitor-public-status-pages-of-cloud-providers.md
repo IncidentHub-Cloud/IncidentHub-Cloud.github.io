@@ -88,7 +88,7 @@ to mitigate this.
 ### Filtering Your Monitors
 Cloud providers have many, sometimes hundreds, services in different locations across the globe. A cloud provider's status page
 shows incidents across all of them. Your team should receive notifications only for the services they use, and in the regions they use them in. 
-Most status pages have an option to choose the services and the regions. Utilize this feature so that your team is not flooded with unnecessary
+Most status pages have an [option](/Monitoring-Specific-Components-and-Regions-in-Your-Third-Party-Services) to choose the services and the regions. Utilize this feature so that your team is not flooded with unnecessary
 notifications.
 
 E.g. The [Fastmail status page](https://fastmailstatus.com) which is hosted by [Instatus](https://instatus.com) has options to sign up for notifications for specific components:
@@ -111,15 +111,15 @@ Irrespective of your chosen notification mode, ensure that your incident respons
 
 ## Use a Monitoring Tool
 As noted in the previous sections, there are various challenges to monitoring cloud providers' status pages by yourself, unless you have only one or two such providers. There are various tools which aim to solve these pain points.
- [IncidentHub](https://incidenthub.cloud) is a SaaS tool created specifically to solve these challenges faced by Dev/Ops/SRE and IT Teams. You can [create a free account](https://incidenthub.cloud/sign-up)
+ [IncidentHub](https://incidenthub.cloud) is a SaaS tool created specifically to solve these challenges faced by Dev/[Ops/SRE](/Monitoring-Third-Party-Vendors-As-An-Ops-Engineer-SRE) and IT Teams. You can [create a free account](https://incidenthub.cloud/sign-up)
   which comes with 20 status page monitors and try it out.
 
-IncidentHub monitors [hundreds](https://incidenthub.cloud/services) of cloud provider status pages periodically. It can send you notifications over the medium you choose - Email, Slack, PagerDuty, Discord, MS Teams, etc. 
-IncidentHub also gives you a single dashboard where you can view ongoing and past incidents with your cloud providers:
+IncidentHub monitors [hundreds](https://incidenthub.cloud/services) of cloud provider status pages periodically. It can send you notifications over the medium you choose - Email, [Slack](/Integrate-Incident-Alerts-Into-Your-Slack-Workspace), [PagerDuty](/Integrate-Your-Monitoring-System-With-PagerDutys-Events-API-V2), [Discord](/Integrate-Incident-Alerts-With-Discord-Using-Webhooks), webhooks, etc. 
+IncidentHub also gives you a [single dashboard](/Incident-Archaeology-Dig-Into-Your-Services-Past-With-IncidentHubs-Availability-Page) where you can view ongoing and past incidents with your cloud providers:
 ![Availability page](/img/availability-page.png)
 
 ### The Benefits of Using a Monitoring Tool
-The benefits of using a dedicated tool which monitors cloud status pages:
+The benefits of using a dedicated tool which monitors [cloud status pages](https://incidenthub.cloud/status-page-monitor):
 - Offers a single normalized view across cloud providers' status pages
 - Hides the complexity of different status page formats
 - Detects and handles changing status page formats over time

@@ -14,7 +14,7 @@ like yours - with SLAs. And outages happen, affecting you as well as many others
 
 It's a no-brainer that you should know when such outages happen to be on top of things if/when it affects your running applications.
 
-Most of your third party dependencies will have a public status page or a Twitter account 
+Most of your third party dependencies will have a public [status page](/How-To-Monitor-Public-Status-Pages-of-Cloud-Providers-a-Step-by-Step-Approach) or a Twitter account 
 where they publish updates on their outages. Here are some seemingly easy ways to monitor these pages
 - Subscribe to the RSS feed of these pages
 - Follow the Twitter account
@@ -29,22 +29,23 @@ But if you have tried it, it's not that easy
 You can easily end up doing this one by one for 10-15 or more service providers. Let's do a quick check. 
 Which services in this list below do you use in your stack?
 
-- DNS - [GCP](https://incidenthub.cloud/service/googlecloudplatform)/GoDaddy/UltraDNS/Route53
-- Cloud/PaaS - [GCP](https://incidenthub.cloud/service/googlecloudplatform)/AWS/[Azure](https://incidenthub.cloud/service/azure)/[DigitalOcean](https://incidenthub.cloud/service/digitalocean)/Heroku/Render/[Railway](https://incidenthub.cloud/service/railway)/[Hetzner](https://incidenthub.cloud/service/hetzner)
-- Monitoring - Grafana Cloud/[DataDog](https://incidenthub.cloud/service/datadog)/[New Relic](https://incidenthub.cloud/service/newrelic)/SolarWinds
-- On-call management - PagerDuty/OpsGenie
-- Email - Google Workspace/Zoho
-- Communication - Zoom/Slack
-- Collaboration - [Atlassian Jira](https://incidenthub.cloud/service/jira)/Confluence
+- DNS - [GCP](https://incidenthub.cloud/service/googlecloudplatform)/GoDaddy/[UltraDNS](https://incidenthub.cloud/service/ultradns)/Route53
+- Cloud/PaaS - [GCP](https://incidenthub.cloud/service/googlecloudplatform)/[AWS](https://incidenthub.cloud/service/aws/[Azure](https://incidenthub.cloud/service/azure)/[DigitalOcean](https://incidenthub.cloud/service/digitalocean)/Heroku/Render/[Railway](https://incidenthub.cloud/service/railway)/[Hetzner](https://incidenthub.cloud/service/hetzner)
+- Observability - [Grafana Cloud](https://incidenthub.cloud/service/grafanacloud)/[DataDog](https://incidenthub.cloud/service/datadog)/[New Relic](https://incidenthub.cloud/service/newrelic)/[SolarWinds](https://incidenthub.cloud/service/solarwindsobservability)
+- On-call management - PagerDuty/[OpsGenie](https://incidenthub.cloud/service/opsgenie)
+- Email - [Google Workspace](https://incidenthub.cloud/service/googleworkspace)/[Zoho](https://incidenthub.cloud/service/zoho)
+- Communication - [Zoom](https://incidenthub.cloud/service/zoom)/[Slack](https://incidenthub.cloud/service/slack)
+- Collaboration - [Atlassian Jira](https://incidenthub.cloud/service/jira)/[Confluence](https://incidenthub.cloud/service/confluence)
 - Source code - [GitLab](https://incidenthub.cloud/service/gitlab)/[GitHub](https://incidenthub.cloud/service/github)
-- CI/CD/GitOps - TravisCI/CircleCI/CodeFresh
-- CDN/Content delivery/ - Cloudflare/CDNJS/Fastly/[Akamai](https://incidenthub.cloud/service/akamai)
+- CI/CD/GitOps - [TravisCI](https://incidenthub.cloud/service/travisci)/[CircleCI](https://incidenthub.cloud/service/circleci)/[CodeFresh](https://incidenthub.cloud/service/codefresh)
+- CDN/Content delivery/ - [Cloudflare](https://incidenthub.cloud/service/cloudflare)/[CDNJS](https://incidenthub.cloud/service/cdnjs)/[Fastly](https://incidenthub.cloud/service/fastly)/[Akamai](https://incidenthub.cloud/service/akamai)
 - SMTP providers - SMTP.com/[SendGrid](https://incidenthub.cloud/service/sendgrid)
 - Payments - [PayPal](https://incidenthub.cloud/service/paypal)/[Stripe](https://incidenthub.cloud/service/stripe)
-- Artifact Repo - Maven/DockerHub.Quay.io
-- Others - [OpenAI](https://incidenthub.cloud/service/openai)/Apple Dev Platform/Meta Platform
-- Marketing - MailChimp/Hubspot
-- Auth - Okta/Clerk/Auth0
+- Artifact Repo - [Maven](https://incidenthub.cloud/service/maven)/[DockerHub](https://incidenthub.cloud/service/dockerhub)
+- Develope APIs - Apple Dev Platform/Meta Platform
+- LLM APIs - [OpenAI](https://incidenthub.cloud/service/openai)/[Anthropic](https://incidenthub.cloud/service/anthropic)/[Portkey](https://incidenthub.cloud/service/portkey)
+- Marketing - MailChimp/[Hubspot](https://incidenthub.cloud/service/hubspot)
+- Auth - [Okta](https://incidenthub.cloud/service/okta)/Clerk/Auth0
 
 This is a small list. You may not have all of these, or may have more/others, but you get the point.
 
