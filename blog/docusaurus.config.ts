@@ -128,6 +128,10 @@ const config: Config = {
               label: 'Documentation',
               href: 'https://docs.incidenthub.cloud',
             },
+            {
+              label: 'Whitepaper',
+              href: 'https://storage.googleapis.com/ihub-static-storage/content/Monitoring%20Status%20Pages%20Built%20With%20Atlassian%20Statuspage.pdf',
+            },
           ],
         },
         {
