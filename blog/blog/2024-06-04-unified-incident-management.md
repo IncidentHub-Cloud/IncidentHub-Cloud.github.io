@@ -20,7 +20,7 @@ Prometheus is the de-facto standard for monitoring these days if you have a mode
 This model does not work for all aspects of your service. E.g. If you want to monitor external properties like your website, or use synthetic
  monitoring to check your customer-facing APIs from global locations, you could use something like Pingdom or UptimeRobot. This becomes another source of 
  data about your service's uptime.
-
+<!-- truncate -->
 ### Many Monitors, One Incident Management System
 A downside of having more than one monitoring system in place, regardless of the need, is that you have multiple sources of data. You have to
  consult multiple systems if you want to know the overall status. However, it is important that you receive alerts in one single incident and 

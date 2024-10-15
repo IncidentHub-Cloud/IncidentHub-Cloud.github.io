@@ -25,7 +25,7 @@ How to check if a SaaS is experiencing downtime? Follow the steps below:
 
 ## Visit the SaaS Provider's Status Page {#one}
 The SaaS provider's status page will have first-hand information about ongoing issues.
-
+<!-- truncate -->
 ### Locate the SaaS provider's Status Page
 You can find this by either doing a web search like "Zoom status page" or "OpenAI status page". You can also visit the
 SaaS provider's website and look for the status page link - it is usually in the footer. Another option is to check their documentation.

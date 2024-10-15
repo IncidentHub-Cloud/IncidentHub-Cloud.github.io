@@ -33,7 +33,7 @@ Work with your Dev/Ops/SRE and IT teams to come up with a comprehensive list of 
 Any service that is not managed by your teams is by definition a cloud service. Although we focus on
 Cloud providers - i.e. providers that let you deploy your services on their infrastructure - this article is equally 
 applicable to any of your external SaaS vendors.
-
+<!-- truncate -->
 ## Locate Their Public Status Pages
 Every cloud provider has a public status page. You can find the link either on their company website, or by doing a web search.
 The status page software is either managed by your cloud provider, or outsourced to another service like Atlassian Statuspage or 

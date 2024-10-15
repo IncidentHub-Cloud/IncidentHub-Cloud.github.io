@@ -19,7 +19,7 @@ My first reaction to this question was that the SRE who posted this is in a diff
 
 ### Systemic Issues
 Without knowing more about the org and their alerting policies, let's look at what we can dig out based on this question alone
-
+<!-- truncate -->
 - Patches/deployments trigger alerts
 - The team does not react to such alerts to avoid spending valuable time that can be directed towards solving downtime that is affecting customers
 - There is cognitive overhead of selectively reacting to some alerts, and ignoring others

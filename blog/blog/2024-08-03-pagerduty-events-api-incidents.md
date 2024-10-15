@@ -22,7 +22,7 @@ The lifecycle of an incident will typically go through these states
 
 
 You can either use any of the [PagerDuty client SDKs to send events](https://developer.pagerduty.com/docs/ZG9jOjExMDI5NTg2-api-client-libraries), or roll out your own. 
-
+<!-- truncate -->
 ## PagerDuty Integration
 Many self-hosted and SaaS monitoring tools have inbuilt PagerDuty integration. This involves getting a PagerDuty API key and add it to your monitoring
 tool's configuration.

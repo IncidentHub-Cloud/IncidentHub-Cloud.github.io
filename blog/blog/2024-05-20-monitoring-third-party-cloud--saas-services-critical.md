@@ -24,7 +24,7 @@ If you have a software-based business, you are using at least a few cloud based 
 Your entire business - irrespective of org or market size - including your development tools, collaboration/communication tools, infrastructure and hosting, monitoring, even email - is dependent on services that you don’t control. They are provided by other vendors.
 
 Of course, you pay for some of them and they all have SLAs. Having an SLA does not translate to 100% uptime. Companies will try their best to meet SLAs - which promise a percentage of uptime (usually 99.xx). There are going to be incidents in your providers at some point, and the effect will cascade to the service that you provide to your customers. This means that your own product's SLA can be breached due to causes outside your control.
-
+<!-- truncate -->
 Can you not ask the service provider to notify you directly when this happens? Unlikely, unless you are a really big enterprise. However, most of them have public status pages where you can sign up to receive these alerts over SMS, email, Slack, etc.
 
 The downside is - if you have 50 such services, you have to sign up on 50 pages, one by one. If you want to change your notification channel (another Slack channel, or SMS instead of Slack), you have to edit it on each of those 50 pages.

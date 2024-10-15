@@ -37,7 +37,7 @@ Your status page needs to be accessible especially when your main services are d
 - Globally distributed infrastructure for high availabilty
 - Redundant systems to ensure failover and availability
 - Scalability to handle increased traffic during major incidents
-
+<!-- truncate -->
 ### 2. Customization Options
 
 Prioritize providers that offer customization options.

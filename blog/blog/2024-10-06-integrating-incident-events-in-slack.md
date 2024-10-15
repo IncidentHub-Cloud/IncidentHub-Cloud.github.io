@@ -29,7 +29,7 @@ payload is different from that of the Slack webhook.
 You must have the correct permissions on your Slack workspace to be able to do this.
 
 Follow these steps to configure an incoming webhook in your Slack workspace.
-
+<!-- truncate -->
 - Create a new channel where you want to receive your incident alerts, or choose an existing channel.
 - Follow the steps in the [Slack documentation](https://api.slack.com/messaging/webhooks) to create an incoming webhook.
 - Copy the webhook URL. 

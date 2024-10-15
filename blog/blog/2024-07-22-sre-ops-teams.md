@@ -19,7 +19,7 @@ where they publish updates on their outages. Here are some seemingly easy ways t
 - Subscribe to the RSS feed of these pages
 - Follow the Twitter account
 - Sign up for Slack, Email, SMS notifications on the status page itself if the page supports these
-
+<!-- truncate -->
 But if you have tried it, it's not that easy
 - Not all pages have RSS feeds
 - Some have Slack, Email, SMS integration - some don't

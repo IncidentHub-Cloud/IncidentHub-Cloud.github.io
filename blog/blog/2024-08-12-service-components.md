@@ -21,7 +21,7 @@ You can now choose which components/regions you wish to monitor in IncidentHub. 
 example.
 
 You can choose to monitor all components:
-
+<!-- truncate -->
 <img src="/img/edit-do.png" style={{border: '1px solid #000'}} alt="Monitor all components"/>
 
 or a subset that is relevant to you:

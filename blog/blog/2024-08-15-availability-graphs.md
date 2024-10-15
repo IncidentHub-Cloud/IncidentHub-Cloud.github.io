@@ -20,7 +20,7 @@ This panel is good enough for a quick view on what's affecting your dependent se
 need to look back further. This is what the Availability page gives you - an overview of service health over the last 30 days.
 
 Let's look at a few examples:
-
+<!-- truncate -->
 - You are investigating an outage with your applications which had a significant impact and more than one cause. One of the 
 reasons was an outage with one of your third-party services. You are writing the post-mortem report after 2 days and need 
 to refer to the third-party outage's incident report, which you can find on the Availability page.
