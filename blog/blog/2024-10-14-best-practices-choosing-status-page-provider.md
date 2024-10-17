@@ -28,6 +28,8 @@ An external status page is crucial if you say you are committed to open communic
 be the first thing people would check if they face issues. Being open about incidents and your efforts to mitigate them build user trust. They can also decrease support ticket volume
 during incidents.
 
+You can choose an [open source](/The-2024-Guide-to-Open-Source-Status-Page-Providers) status page provider, or one that is managed. This guide focuses on the factors to look at while evaluating managed providers.
+
 ## Key Factors to Consider When Choosing a Status Page Provider
 
 ### 1. Reliability
