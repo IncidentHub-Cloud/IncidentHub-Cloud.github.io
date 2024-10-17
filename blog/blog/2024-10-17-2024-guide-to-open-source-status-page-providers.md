@@ -9,7 +9,7 @@ tags: [status-pages, monitoring]
 <head>
 <meta property="og:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/open-source-status-page-providers.jpg" />
 <meta name="twitter:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/open-source-status-page-providers.jpg" />
-<meta name="author" content="Hrishikesh Barua">
+<meta name="author" content="Hrishikesh Barua"/>
 </head>
 
 
