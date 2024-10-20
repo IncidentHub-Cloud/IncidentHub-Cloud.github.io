@@ -9,6 +9,7 @@ tags: [status-pages, monitoring]
 <head>
 <meta property="og:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/status-page.jpg" />
 <meta name="twitter:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/status-page.jpg" />
+<meta name="author" content="Hrishikesh Barua"/>
 </head>
 
 
@@ -18,6 +19,8 @@ Downtime is inevitable but what sets successful businesses apart is how they han
 incident communication with both internal and external stakeholders. A status page is a crucial tool for maintaining clear communication 
 with users during outages or service interruptions. There are numerous status page providers available with different features. 
 This article will guide you through best practices for selecting a provider that suits your needs.
+
+![GitHub status page](../static/img/status-page.png)
 
 ## The Importance of a Status Page
 

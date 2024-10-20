@@ -9,6 +9,7 @@ tags: [alerting, discord, ops, webhook]
 <head>
 <meta property="og:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/discord.jpg" />
 <meta name="twitter:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/discord.jpg" />
+<meta name="author" content="Hrishikesh Barua"/>
 </head>
 
 ## Introduction

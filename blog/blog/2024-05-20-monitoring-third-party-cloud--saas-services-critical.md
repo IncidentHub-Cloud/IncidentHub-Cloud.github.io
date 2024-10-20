@@ -6,7 +6,7 @@ description: It is critical to your business operations to monitor your third-pa
 tags: [monitoring, cloud]
 ---
 <head>
-<link rel="canonical" href="https://www.linkedin.com/feed/update/urn:li:activity:7196385217270415361" />
+<meta name="author" content="Hrishikesh Barua"/>
 </head>
 
 If you have a software-based business, you are using at least a few cloud based tools. It does not matter if you are a solo developer, or part of a 50-member team in a large organization. Take this random list and chances are you are using at least half of them:

@@ -9,6 +9,7 @@ tags: [status-pages, monitoring, ops, cloud]
 <head>
 <meta property="og:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/statuspagemonitor.jpg" />
 <meta name="twitter:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/statuspagemonitor.jpg" />
+<meta name="author" content="Hrishikesh Barua"/>
 </head>
 
 ## Introduction
@@ -18,15 +19,21 @@ Providers also post updates about upcoming and ongoing maintenance on their stat
 status pages becomes crucial to your business operations. This article will guide you through the process of 
 effectively monitoring such status pages.
 
-1. [Identify Your Cloud Providers](#identify-your-cloud-providers)
-2. [Locate Their Public Status Pages](#locate-their-public-status-pages)
-3. [Understand the Status Page Structure](#understand-the-status-page-structure)
-4. [Configure Notifications](#configure-notifications)
-5. [Best Practices](#best-practices)
-6. [Include in Your Incident Response Plan](#incident-response-plan)
-7. [Use a Monitoring Tool](#use-a-monitoring-tool)
-8. [Conclusion](#conclusion)
-9. [FAQ](#faq)
+- [Introduction](#introduction)
+- [Identify Your Cloud Providers](#identify-your-cloud-providers)
+- [Locate Their Public Status Pages](#locate-their-public-status-pages)
+- [Understand the Status Page Structure](#understand-the-status-page-structure)
+- [Configure Notifications](#configure-notifications)
+  - [Notification Challenges](#notification-challenges)
+- [Best Practices](#best-practices)
+  - [Filtering Your Monitors](#filtering-your-monitors)
+  - [Do Periodic Reviews](#do-periodic-reviews)
+  - [Have a Single View Across All Providers](#have-a-single-view-across-all-providers)
+- [Include in Your Incident Response Plan](#include-in-your-incident-response-plan)
+- [Use a Monitoring Tool](#use-a-monitoring-tool)
+  - [The Benefits of Using a Monitoring Tool](#the-benefits-of-using-a-monitoring-tool)
+- [Conclusion](#conclusion)
+- [FAQ](#faq)
 
 ## Identify Your Cloud Providers
 Work with your Dev/Ops/SRE and IT teams to come up with a comprehensive list of your cloud providers.

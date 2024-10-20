@@ -28,6 +28,11 @@ incident-management:
   permalink: '/incident-management'
   description: 'IncidentHub posts related to incident management'
 
+incident-response:
+  label: 'incident-response'
+  permalink: '/incident-response'
+  description: 'IncidentHub posts related to incident response'
+
 monitoring:
   label: 'monitoring'
   permalink: '/monitoring'

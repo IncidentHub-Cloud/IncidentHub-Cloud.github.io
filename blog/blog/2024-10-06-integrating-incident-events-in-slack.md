@@ -9,12 +9,13 @@ tags: [alerting, slack, ops, webhook]
 <head>
 <meta property="og:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/slack.jpg" />
 <meta name="twitter:image" data-rh="true" content="https://storage.googleapis.com/ihub-static-storage/blog/slack.jpg" />
+<meta name="author" content="Hrishikesh Barua"/>
 </head>
 
 ## Introduction
 
 Staying on top of your third-party Cloud and SaaS service outages is crucial to maintain the reliability of your own applications.
-Like many modern teams, Slack might be your communication tool of choice. You can keep up with such incidents by pushing these events to a Slack channel.
+Like many modern teams, [Slack](/The-Rising-Role-of-Slack-in-Incident-Management) might be your communication tool of choice. You can keep up with such incidents by pushing these events to a Slack channel.
 
 There are different ways of pushing incident events to Slack. In this article we will explore how to integrate IncidentHub incident lifecycle
 events using an incoming webhook. An incoming webhook can be used to send incident trigger, update, and resolve events to a specific Slack channel.
