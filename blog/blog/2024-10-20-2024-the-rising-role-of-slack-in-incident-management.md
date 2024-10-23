@@ -29,7 +29,7 @@ that are taken for granted in face to face interactions, they provide many other
 
 ### Slack in Incident Management
 One of the trends I've noticed in incident management is the growing rise of Slack in incident response and management tools. I think this is tied to the increase in remote work after COVID-19. 
-
+<!-- truncate -->
 COVID-19 saw a tremendous increase in the usage of [Zoom](https://www.theverge.com/2020/4/23/21232401/zoom-300-million-users-growth-coronavirus-pandemic-security-privacy-concerns-response), 
 [Slack](https://x.com/stewart/status/1243000509666955264), [Google Meet](https://www.infoq.com/news/2020/08/google-meet-scaling/) and similar tools. Remote work increased post COVID-19, and the tools
 evolved to support this. A natural consequence of a bigger remote workforce was more workflows moving to remote communication tools. The tools themselves evolved as platforms and there were other tools
